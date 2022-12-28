@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="jobs.xsl" ?>
+<jobs>
+    <job>
+        <title>iOS developer</title>
+        <description>An iOS developer is someone with an in-depth understanding of the iOS ecosystem, including a deep understanding of how it works on different Apple devices such as the iPad, iPhone, Apple Watch, and Apple TV</description>
+        <skills>
+            <skill>SwiftUI </skill>
+            <skill>UIKit </skill>
+        </skills>
+        <educationFields>
+            <educationField>Mobile Programming </educationField>
+            <educationField>POO </educationField>
+            <educationField>Software Engineering </educationField>
+        </educationFields>
+        <companies>
+            <company>Nagarro </company>
+            <company>Apple </company>
+            <company>mReady </company>
+            <company>Adobe </company>
+        </companies>
+        <experience>2</experience>
+        <add_date>
+            <day>02</day>
+            <month>01</month>
+            <year>2022</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Android developer</title>
+        <description>Develop apps for Android ecosystem</description>
+        <skills>
+            <skill>Kotlin</skill>
+            <skill>Java</skill>
+        </skills>
+        <educationFields>
+            <educationField>Mobile Programming </educationField>
+            <educationField>POO </educationField>
+            <educationField>Software Engineering </educationField>
+        </educationFields>
+        <companies>
+            <company>Nagarro </company>
+            <company>Apple </company>
+            <company>mReady </company>
+            <company>Adobe </company>
+        </companies>
+        <experience>5</experience>
+        <add_date>
+            <day>02</day>
+            <month>01</month>
+            <year>2022</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Agricultural Engineer</title>
+        <description>Conduct educational programs that provide farmers or farm cooperative members with information that can help them improve agricultural productivity.</description>
+        <skills>
+            <skill>Critical Thinking </skill>
+            <skill>Complex Problem Solving </skill>
+            <skill>Reading Comprehension </skill>
+        </skills>
+        <educationFields>
+            <educationField>Biology </educationField>
+            <educationField>Chemestry </educationField>
+            <educationField>Math </educationField>
+        </educationFields>
+        <companies>
+            <company>ROMAT COMIMPEX SRL </company>
+            <company>PLANTAGRO-COM SRL </company>
+            <company>AGRICOST S.A </company>
+            <company>AGRINVEST SRL </company>
+        </companies>
+        <experience>10</experience>
+        <add_date>
+            <day>02</day>
+            <month>01</month>
+            <year>2022</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Computer Network Architect </title>
+        <description>Design and implement computer and information networks, such as local area networks (LAN), wide area networks (WAN), intranets, extranets, and other data communications networks. Perform network modeling, analysis, and planning, including analysis of capacity needs for network infrastructures. May also design network and computer security measures. May research and recommend network and data communications hardware and software.</description>
+        <skills>
+            <skill>Critical Thinking </skill>
+            <skill>Complex Problem Solving </skill>
+            <skill>Programming </skill>
+            <skill>Time Management </skill>
+        </skills>
+        <educationFields>
+            <educationField>Computer networks </educationField>
+            <educationField>Programing </educationField>
+            <educationField>Operating systems </educationField>
+        </educationFields>
+        <companies>
+            <company>Adobe </company>
+            <company>IBM </company>
+            <company>Systematic </company>
+            <company>Tremend </company>
+        </companies>
+        <experience>1</experience>
+        <add_date>
+            <day>02</day>
+            <month>01</month>
+            <year>2022</year>
+        </add_date>
+    </job>
+</jobs>

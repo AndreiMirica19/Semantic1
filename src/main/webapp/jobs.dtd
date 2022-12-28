@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!ELEMENT jobs (job)*>
+        <!ELEMENT job (title|description|skills|educationFields|companies|experience|add_date)*>
+        <!ELEMENT title (#PCDATA)>
+        <!ELEMENT description (#PCDATA)>
+        <!ELEMENT skills (skill)*>
+        <!ELEMENT skill (#PCDATA)>
+        <!ELEMENT educationFields (educationField)*>
+        <!ELEMENT educationField (#PCDATA)>
+        <!ELEMENT companies (company)*>
+        <!ELEMENT company (#PCDATA)>
+        <!ELEMENT experience (#PCDATA)>
+        <!ELEMENT add_date (day|month|year)*>
+        <!ELEMENT day (#PCDATA)>
+        <!ELEMENT month (#PCDATA)>
+        <!ELEMENT year (#PCDATA)>

@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="jobs.xsl" ?><jobs>
+    <job>
+        <title>iOS developer</title>
+        <description>An iOS developer is someone with an in-depth understanding of the iOS ecosystem, including a deep understanding of how it works on different Apple devices such as the iPad, iPhone, Apple Watch, and Apple TV</description>
+        <skills>
+            <skill>SwiftUI</skill>
+            <skill>UIKit</skill>
+        </skills>
+        <educationFields>
+            <educationField>Mobile Programming</educationField>
+            <educationField>POO </educationField>
+            <educationField>Software Engineering</educationField>
+        </educationFields>
+        <companies>
+            <company>Nagarro</company>
+            <company>Apple</company>
+            <company>mReady</company>
+            <company>Adobe</company>
+        </companies>
+        <experience>2</experience>
+        <add_date>
+            <day>02</day>
+            <month>01</month>
+            <year>2022</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Android developer</title>
+        <description>Develop apps for Android ecosystem</description>
+        <skills>
+            <skill>Kotlin</skill>
+            <skill>Java</skill>
+        </skills>
+        <educationFields>
+            <educationField>Mobile Programming</educationField>
+            <educationField>POO </educationField>
+            <educationField>Software Engineering</educationField>
+        </educationFields>
+        <companies>
+            <company>Nagarro</company>
+            <company>Apple</company>
+            <company>mReady</company>
+            <company>Adobe</company>
+        </companies>
+        <experience>5</experience>
+        <add_date>
+            <day>02</day>
+            <month>01</month>
+            <year>2022</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Agricultural Engineer</title>
+        <description>Conduct educational programs that provide farmers or farm cooperative members with information that can help them improve agricultural productivity.</description>
+        <skills>
+            <skill>Critical Thinking</skill>
+            <skill>Complex Problem Solving</skill>
+            <skill>Reading Comprehension</skill>
+        </skills>
+        <educationFields>
+            <educationField>Biology</educationField>
+            <educationField>Chemestry</educationField>
+            <educationField>Math</educationField>
+        </educationFields>
+        <companies>
+            <company>ROMAT COMIMPEX SRL</company>
+            <company>PLANTAGRO-COM SRL</company>
+            <company>AGRICOST S.A</company>
+            <company>AGRINVEST SRL</company>
+        </companies>
+        <experience>10</experience>
+        <add_date>
+            <day>02</day>
+            <month>01</month>
+            <year>2022</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Computer Network Architect</title>
+        <description>Design and implement computer and information networks, such as local area networks (LAN), wide area networks (WAN), intranets, extranets, and other data communications networks. Perform network modeling, analysis, and planning, including analysis of capacity needs for network infrastructures. May also design network and computer security measures. May research and recommend network and data communications hardware and software.</description>
+        <skills>
+            <skill>Critical Thinking</skill>
+            <skill>Complex Problem Solving</skill>
+            <skill>Programming</skill>
+            <skill>Time Management</skill>
+        </skills>
+        <educationFields>
+            <educationField>Computer networks</educationField>
+            <educationField>Programing</educationField>
+            <educationField>Operating systems</educationField>
+        </educationFields>
+        <companies>
+            <company>Adobe</company>
+            <company>IBM</company>
+            <company>Systematic</company>
+            <company>Tremend</company>
+        </companies>
+        <experience>1</experience>
+        <add_date>
+            <day>02</day>
+            <month>01</month>
+            <year>2022</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Flutter Dev</title>
+        <description>Build Flutter Apps</description>
+        <skills>
+            <skill>Dart</skill>
+            <skill>POO</skill>
+        </skills>
+        <experience>3</experience>
+        <educationFields>
+            <educationField>POO</educationField>
+            <educationField>Mobile Programming</educationField>
+        </educationFields>
+        <companies>
+            <company>Nagarro</company>
+            <company>IBM</company>
+            <company>Tremend</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>12</month>
+            <year>30</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Customer Service with English</title>
+        <description>The customer service activities will be provided for a multinational computer software company. As a Customer Service Representative, you will be delivering exceptional service to our customers from all over the world. You will combine skills, passion, customer-focus, positive mindset to elevate service delivery and will be a strong contributor to the overall success we achieve.</description>
+        <skills>
+            <skill>Fluency in spoken and written: French</skill>
+            <skill>Customer service skills</skill>
+        </skills>
+        <experience>4</experience>
+        <educationFields>
+            <educationField>Management</educationField>
+            <educationField>Marketing</educationField>
+            <educationField>Communication</educationField>
+        </educationFields>
+        <companies>
+            <company>Helphelp</company>
+            <company>Majorelcenter</company>
+            <company>heycenter</company>
+            <company>trustcenter</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>12</month>
+            <year>30</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Store Manager</title>
+        <description>Creator of the hypermarket and reference food retailer, Carrefour remains faithful to its roots but reinvents itself to allow everyone, every day, to eat better: healthier, more local, more responsible.&#13;
+</description>
+        <skills>
+            <skill>Decision-making capacity</skill>
+            <skill>Stress management</skill>
+            <skill>Perseverance</skill>
+        </skills>
+        <experience>4</experience>
+        <educationFields>
+            <educationField>Economy</educationField>
+            <educationField>Management</educationField>
+            <educationField>Math</educationField>
+        </educationFields>
+        <companies>
+            <company>Carrefour S.A</company>
+            <company>Lidl S.A</company>
+            <company>Kaufland</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>12</month>
+            <year>30</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Head of Department</title>
+        <description>Creator of the hypermarket and reference food retailer, he remains faithful to his roots but reinvents himself to allow everyone, every day, to eat better: healthier, more local, more responsible&#13;
+</description>
+        <skills>
+            <skill>Sense of organization</skill>
+            <skill>Stress management</skill>
+            <skill>Teamwork</skill>
+        </skills>
+        <experience>1</experience>
+        <educationFields>
+            <educationField>Economy</educationField>
+            <educationField>Management</educationField>
+            <educationField>Macroeconomics</educationField>
+        </educationFields>
+        <companies>
+            <company>Carrefour S.A</company>
+            <company>Lidl S.A</company>
+            <company>Kaufland</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>12</month>
+            <year>23</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Versatile Commercial Employee</title>
+        <description>Creator of the hypermarket and reference food retailer, he remains faithful to his roots but reinvents himself to allow everyone, every day, to eat better: healthier, more local, more responsible.&#13;
+</description>
+        <skills>
+            <skill>Sense of organization</skill>
+            <skill>Adaptability</skill>
+            <skill>Reactive</skill>
+        </skills>
+        <experience>3</experience>
+        <educationFields>
+            <educationField>Economy</educationField>
+            <educationField>Management</educationField>
+            <educationField>Macroeconomics</educationField>
+        </educationFields>
+        <companies>
+            <company>Carrefour S.A</company>
+            <company>Lidl S.A</company>
+            <company>Kaufland</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>12</month>
+            <year>24</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Accountant</title>
+        <description>The accountant records and gathers the commercial, industrial or financial data of a structure to make balances of accounts, income statements and other balance sheets. He verifies the accuracy of the accounting entries and reports to the managers of the structure.</description>
+        <skills>
+            <skill>Proficiency in payroll and HRIS software</skill>
+            <skill>Provides general accounting</skill>
+            <skill>Provides administrative management</skill>
+        </skills>
+        <experience>1</experience>
+        <educationFields>
+            <educationField>Management</educationField>
+            <educationField>Marketing</educationField>
+            <educationField>Communication</educationField>
+        </educationFields>
+        <companies>
+            <company>IBM</company>
+            <company>Majorelcenter</company>
+            <company>Coca-Cola</company>
+            <company>Bmce Bank</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>12</month>
+            <year>23</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Accountant Chief</title>
+        <description>The accountant records and gathers the commercial, industrial or financial data of a structure to make balances of accounts, income statements and other balance sheets. He verifies the accuracy of the accounting entries and reports to the managers of the structure.</description>
+        <skills>
+            <skill>Masters office tools</skill>
+            <skill>Provides general accounting</skill>
+            <skill>Provides administrative management</skill>
+        </skills>
+        <experience>1</experience>
+        <educationFields>
+            <educationField>Management</educationField>
+            <educationField>Marketing</educationField>
+            <educationField>Communication</educationField>
+        </educationFields>
+        <companies>
+            <company>IBM</company>
+            <company>Majorelcenter</company>
+            <company>Coca-Cola</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>07</month>
+            <year>14</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Secretary</title>
+        <description>The accountant records and gathers the commercial, industrial or financial data of a structure to make balances of accounts, income statements and other balance sheets. He verifies the accuracy of the accounting entries and reports to the managers of the structure.&#13;
+</description>
+        <skills>
+            <skill>Masters office tools</skill>
+            <skill>Respects company law</skill>
+            <skill>Provides administrative management</skill>
+        </skills>
+        <experience>6</experience>
+        <educationFields>
+            <educationField>office automation</educationField>
+            <educationField>Marketing</educationField>
+            <educationField>Communication</educationField>
+        </educationFields>
+        <companies>
+            <company>IBM</company>
+            <company>Majorelcenter</company>
+            <company>Coca-Cola</company>
+            <company>Bmce Bank</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>10</month>
+            <year>23</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Reception agent</title>
+        <description>Creator of the hypermarket and reference food retailer, Carrefour remains faithful to its roots but reinvents itself to allow everyone, every day, to eat better: healthier, more local, more responsible.&lt;/description&gt;&#13;
+</description>
+        <skills>
+            <skill>Adaptability</skill>
+            <skill>Stress management</skill>
+            <skill>Social</skill>
+        </skills>
+        <experience>5</experience>
+        <educationFields>
+            <educationField>Communication</educationField>
+            <educationField>Managing</educationField>
+            <educationField>Economy</educationField>
+        </educationFields>
+        <companies>
+            <company>Raddisson</company>
+            <company>Mariot</company>
+            <company>Continental</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>09</month>
+            <year>23</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Backend developer</title>
+        <description>Back-end developers are the experts who build and maintain the mechanisms that process data and perform actions on websites</description>
+        <skills>
+            <skill>Java</skill>
+            <skill>MySql</skill>
+            <skill>Firebase</skill>
+        </skills>
+        <experience>8</experience>
+        <educationFields>
+            <educationField>POO</educationField>
+            <educationField>Programming Languages</educationField>
+            <educationField>Data structures</educationField>
+        </educationFields>
+        <companies>
+            <company>Nagarro</company>
+            <company>IBM</company>
+            <company>Adobe</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>10</month>
+            <year>28</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Full Stack Developer Intern</title>
+        <description>Put simply, full stack developers are the Swiss army knives of the development world. As masters of multiple programming languages, these savvy professionals are capable of transitioning seamlessly from one development environment to the next. </description>
+        <skills>
+            <skill>Java</skill>
+            <skill>Node.Js</skill>
+            <skill>Html</skill>
+        </skills>
+        <experience>0</experience>
+        <educationFields>
+            <educationField>Web Programming</educationField>
+            <educationField>POO</educationField>
+            <educationField>Java</educationField>
+        </educationFields>
+        <companies>
+            <company>Tremend</company>
+            <company>IBM</company>
+            <company>Finastra</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>10</month>
+            <year>06</year>
+        </add_date>
+    </job>
+    <job>
+        <title>DevOps Developer</title>
+        <description>DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. </description>
+        <skills>
+            <skill>Continuous delivery</skill>
+            <skill>Cloud Skills &amp; Best Practices</skill>
+            <skill>Infrastructure as code</skill>
+        </skills>
+        <experience>1</experience>
+        <educationFields>
+            <educationField>Operating System</educationField>
+            <educationField>Linux</educationField>
+            <educationField>Java</educationField>
+        </educationFields>
+        <companies>
+            <company>Nagarro</company>
+            <company>IBM</company>
+            <company>UIPath</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>09</month>
+            <year>01</year>
+        </add_date>
+    </job>
+    <job>
+        <title>RPA Developer</title>
+        <description>Put simply, RPA allows for the configuration of software â&#128;&#156;robotsâ&#128;&#157; to capture data and perform routine tasks ranging from automated emails to streamlining process flows or business operations. Not only is RPA simple to employ, it provides a number of benefits such as an increase in efficiency and improved customer service.</description>
+        <skills>
+            <skill>.NEt</skill>
+            <skill>c#</skill>
+            <skill>Java</skill>
+        </skills>
+        <experience>3</experience>
+        <educationFields>
+            <educationField>Programming Languages</educationField>
+            <educationField>POO</educationField>
+            <educationField>Math</educationField>
+        </educationFields>
+        <companies>
+            <company>UIPath</company>
+            <company>Finastra</company>
+            <company>EA games</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>11</month>
+            <year>18</year>
+        </add_date>
+    </job>
+    <job>
+        <title>Game Tester</title>
+        <description>A game tester, also referred to as a video game tester, is someone who plays video games, tests their features, and identifies glitches and bugs before their public release</description>
+        <skills>
+            <skill>Passion for gaming</skill>
+            <skill>Good at gaming</skill>
+            <skill>Good in office</skill>
+        </skills>
+        <experience>0</experience>
+        <educationFields>
+            <educationField>Programming Languages</educationField>
+            <educationField>Java</educationField>
+            <educationField>Game Development</educationField>
+        </educationFields>
+        <companies>
+            <company>EA games</company>
+            <company>Ubisoft</company>
+            <company>Codemasters</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>12</month>
+            <year>13</year>
+        </add_date>
+    </job>
+    <job>
+        <title>UI designer</title>
+        <description>User interface (UI) designers work closely with user experience (UX) designers and other design specialists. Their job is to make sure that every page and every step a user will experience in their interaction with the finished product will conform to the overall vision created by UX designers</description>
+        <skills>
+            <skill>Adobe Xd</skill>
+            <skill>Figma</skill>
+        </skills>
+        <experience>5</experience>
+        <educationFields>
+            <educationField>Human machine interface</educationField>
+            <educationField>Web Design</educationField>
+            <educationField>App Design</educationField>
+        </educationFields>
+        <companies>
+            <company>UiPath</company>
+            <company>Tremend</company>
+            <company>mReady</company>
+            <company>4Psa</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>10</month>
+            <year>21</year>
+        </add_date>
+    </job>
+    <job>
+        <title>UX Designer</title>
+        <description>UX designers turn applications into something that people like and want to use. UX (user experience) designers measure and optimise applications (usually web based) to improve ease of use (usability), and create the best user experience by exploring many different approaches to solve end-users' problems.</description>
+        <skills>
+            <skill>Figma</skill>
+            <skill>Adobe Xd</skill>
+            <skill>Balsamiq</skill>
+        </skills>
+        <experience>2</experience>
+        <educationFields>
+            <educationField>Web Design</educationField>
+            <educationField>Mobile Design</educationField>
+        </educationFields>
+        <companies>
+            <company>Nagarro</company>
+            <company>mReady</company>
+            <company>Softwire</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>11</month>
+            <year>18</year>
+        </add_date>
+    </job>
+    <job>
+        <title>AAA</title>
+        <description>BBB</description>
+        <skills>
+            <skill>f</skill>
+            <skill>d</skill>
+            <skill>e</skill>
+        </skills>
+        <experience>4</experience>
+        <educationFields>
+            <educationField>g</educationField>
+            <educationField>f</educationField>
+            <educationField>v</educationField>
+        </educationFields>
+        <companies>
+            <company>DD</company>
+            <company>CC</company>
+            <company>XX</company>
+        </companies>
+        <add_date>
+            <day>2022</day>
+            <month>12</month>
+            <year>24</year>
+        </add_date>
+    </job>
+</jobs>
